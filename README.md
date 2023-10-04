@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import variancech from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-variancech@deno/mod.js';
+import variancech from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-variancech@v0.1.1-deno/mod.js';
 ```
 
 #### variancech( N, correction, x, stride )
@@ -214,7 +214,7 @@ var v = variancech.ndarray( N, 1, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import variancech from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-variancech@deno/mod.js';
+import variancech from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-variancech@v0.1.1-deno/mod.js';
 
 var x;
 var i;

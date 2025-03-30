@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`adfa457`](https://github.com/stdlib-js/stdlib/commit/adfa4575e7715273bb374e76860236608ca4a165) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ab7cd64`](https://github.com/stdlib-js/stdlib/commit/ab7cd64f58fab5278c0160ad70d494fb545f6a44) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
